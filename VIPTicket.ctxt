@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VIPTicket
+comment1.params=concertDate\ concertTime\ seatNum\ quantity\ price\ cl\ vipID
+comment1.target=VIPTicket(java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ Client,\ java.lang.String)
+comment2.params=cd\ ct\ seatNum\ quantity\ price\ cl\ vipID
+comment2.target=void\ setVIPTicket(java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ Client,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getVipID()
+comment4.params=
+comment4.target=double\ calcPrice()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

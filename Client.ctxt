@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=clientName\ password
+comment1.target=Client(java.lang.String,\ java.lang.String)
+comment2.params=clName\ pass
+comment2.target=void\ setClient(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getClientName()
+comment4.params=
+comment4.target=java.lang.String\ getPassword()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,78 @@
+                      Welcome To BookTix Concert Ticketing System!
+            Aren't you happy that your favorite star is coming to Malaysia?!
+                Come reserve your ticket immediately while they last!!
+*
+|     Seat Number     |          Price          |         Date         |     Time     |
+*
+| 1-200               | RM1000.00               | 15 September 2025    | 4-6 PM       |
+|                     |                         |                      | 6-8 PM       |
+|                     |                         |                      | 8-10 PM      |
+|-------------------------------------------------------------------------------------|
+| 201-500             | RM700.00                | 16 September 2025    | 2-4 PM       |
+|                     |                         |                      | 4-6 PM       |
+|                     |                         |                      | 6-8 PM       |
+|-------------------------------------------------------------------------------------|
+| 501-700             | RM300.00                | 17 September 2025    | 4-6 PM       |
+|                     |                         |                      | 6-8 PM       |
+|                     |                         |                      | 8-10 PM      |
+*
+=== BOOKING 1 ===
+Client: Fateh Zuhdy
+Concert Date: 15 September 2025
+Concert Time: 4-6 PM
+Seats: 300 to 304
+Quantity: 5
+Total Price: RM2800.00
+
+=== BOOKING 2 ===
+Client: Zul Ariffin
+Concert Date: 16 September 2025
+Concert Time: 6-8 PM
+Seats: 2 to 4
+Quantity: 3
+Total Price: RM2700.00
+
+=== BOOKING 3 ===
+Client: Balqysh
+Concert Date: 17 September 2025
+Concert Time: 8-10 PM
+Seats: 500 to 500
+Quantity: 1
+Total Price: RM560.00
+
+=== BOOKING 4 ===
+Client: John Lebanon
+Concert Date: 16 September 2025
+Concert Time: 2-4 PM
+Seats: 1 to 4
+Quantity: 4
+Total Price: RM3600.00
+
+=== BOOKING 5 ===
+Client: Syukri Yahya
+Concert Date: 15 September 2025
+Concert Time: 8-10 PM
+Seats: 700 to 700
+Quantity: 1
+Total Price: RM270.00
+
+=== BOOKING 6 ===
+Client: Amirah Nabila
+Concert Date: 17 September 2025
+Concert Time: 6-8 PM
+Seats: 599 to 602
+Quantity: 4
+Total Price: RM960.00
+
+=== BOOKING 7 ===
+Client: Sandra Aziz
+Concert Date: 15 September 2025
+Concert Time: 8-10 PM
+Seats: 205 to 209
+Quantity: 5
+Total Price: RM2800.00
+
+=== SUMMARY ===
+Total Bookings: 7
+Total Tickets Sold: 23
+Total Revenue: RM13690.00
